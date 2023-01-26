@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abd El-Rahman Kadah</h1>
-<h3 align="center">An Embedded and IoT Software Engineer</h3>
+<h3 align="center">A Software Engineer Interested with Embedded Systems, IoT, and C++ Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-kadah&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-kadah" /> </p>
 
 - 🌱 I’m currently learning **Embedded Software Engineering**
 
-- 💬 Ask me about **Embedded Systems**
+- 💬 Ask me about **Embedded Systems and IoT**
 
 - 📫 How to reach me **a.an.kadah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-kadah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-kadah" height="30" width="40" /></a>
+<a href="https://fb.com/abdelrahmankadah98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrahmankadah98" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abdelrahman-kadah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdelrahman-kadah" height="30" width="40" /></a>
 </p>
 
